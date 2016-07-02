@@ -1,0 +1,13 @@
+{
+  "title": "Habitica",
+  "icon": "Habitica.app/Contents/Resources/electron.icns",
+  "background": "dmg_background.png",
+  "contents": [
+    { "x": 400, "y": 100, "type": "link", "path": "/Applications" },
+    { "x": 100, "y": 100, "type": "file", "path": "Habitica.app" }
+  ],
+  "window": {
+    "position": { "x": 500, "y": 500 },
+    "size": { "width": 500, "height": 250 }
+  }
+}
