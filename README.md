@@ -2,7 +2,7 @@
 ![alt tag](dock.png)
 
 ## install
-1. Download [Habitica.dmg](Habitica.dmg)
+1. Download [Habitica.dmg](https://github.com/saada/Habitica-macOS/raw/master/Habitica.dmg)
 2. Run the file and copy the app into your Applications folder
 3. Run Habitica from the Applications folder
 
